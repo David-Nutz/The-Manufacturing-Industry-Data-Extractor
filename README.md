@@ -75,6 +75,8 @@ Dashboard Construction: Data Studio, based on BigQuery queries.
 
 Presentation: Google Slides
 
+Machine learning: ChatGPT
+
 ## Data overview
 
 This schema serves as an overview of the available Variables provided by the functions:
